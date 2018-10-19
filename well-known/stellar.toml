@@ -1,0 +1,46 @@
+# ----- myplaceinn.com Stellar Anchor <myplaceinn.com> -----
+
+
+
+ACCOUNTS=["GDAZPEJN5HUFUDWIW4LCYXSZFMWEQBMCE6JI6YRZA2VNP5SZPH3MZJ34, GBCR2XYAUO4WV62YSTRGUNODWJ6IGZQWFFFS67ZZXY7G6WEVV32C7PM4 "]
+
+
+[DOCUMENTATION]
+ORG_NAME="my place inn"
+ORG_DBA="my place inn"
+ORG_URL="https://myplaceinn.com"
+ORG_LOGO="https://myplaceinn.com/sites/default/files/myplaceinn.jpg"
+ORG_DESCRIPTION="Mid and long-term rentals listing website.Pay your rent using $RENT"
+ORG_PHYSICAL_ADDRESS="20 Riverdale Road, SE18 1NZ, London, UK"
+ORG_PHONE_NUMBER="+447508666873"
+ORG_KEYBASE="razplus"
+ORG_TWITTER="razplus"
+ORG_GITHUB="razplus"
+ORG_OFFICIAL_EMAIL="raz@myplaceinn.com"
+ORG_LICENSING_AUTHORITY=""
+ORG_LICENSE_TYPE=""
+ORG_LICENSE_NUMBER=""
+
+[[PRINCIPALS]]
+name="Razvan Patrascioiu"
+email="raz@myplaceinn.com"
+keybase="razplus"
+twitter="razplus"
+github="razplus"
+id_photo_hash=""
+verification_photo_hash=""
+
+
+
+[[CURRENCIES]]
+code="RENT"
+status=”live”
+is_asset_anchored="false"
+issuer="GDAZPEJN5HUFUDWIW4LCYXSZFMWEQBMCE6JI6YRZA2VNP5SZPH3MZJ34"
+display_decimals=8
+name="Rent Token"
+desc="The Rent token."
+image="https://myplaceinn.com/sites/default/files/rentcoin.png"
+redemption_instructions=""
+
+
