@@ -73,6 +73,8 @@ projects[adminimal_theme][patch][] = "https://www.drupal.org/files/issues/admini
 
 ; +++++ Contrib Modules +++++
 
+projects[site_verify][version] = 1.2
+
 
 projects[addressfield][version] = 1.2
 
